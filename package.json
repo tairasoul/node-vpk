@@ -1,0 +1,15 @@
+{
+  "name": "node-vpk",
+  "version": "1.0.0a",
+  "description": "A js module for reading valve vpk file.",
+  "main": "js/index.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^7.0.15"
+  },
+  "dependencies": {
+    "crc": "^3.4.4"
+  }
+}
+// yes this is just ripped from the valve-vpk package
