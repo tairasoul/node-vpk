@@ -1,0 +1,8 @@
+-- todo --
+add a makeVPK function
+makeVPK function should return a modified VPK class that you can write things to
+
+-- in progress --
+- learn what FileReader.js is doing
+
+-- finished --
