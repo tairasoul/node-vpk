@@ -71,4 +71,4 @@ class NewVPK {
     }
 }
 
-// i still don't understand half of this, it was taken from chatgpt and i need help understanding it. preferrably through comments, but anything else should work
+// i still don't understand any of this, it was taken from chatgpt and i need help understanding it. preferrably through comments, but anything else should work
