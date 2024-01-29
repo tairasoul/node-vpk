@@ -4,7 +4,6 @@
 
 -- in progress --
 - learn what FileReader.js is doing
-- learn what the code ChatGPT gave me in experimental/FileWriter.js and NewVPK.js does, and how to replicate it in a fully functional manner in one file
 
 -- finished --
 
